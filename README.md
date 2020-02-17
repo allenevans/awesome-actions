@@ -179,6 +179,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Export global environment variables for succeeding build steps](https://github.com/zweitag/github-actions)
 - [Programmatically set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
 - [Install Conda environments for Python](https://github.com/goanpeca/setup-miniconda)
+- [Add a shortened github sha into the environment variables](https://github.com/allenevans/short-sha)
 
 #### Dependencies
 
